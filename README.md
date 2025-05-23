@@ -1,4 +1,4 @@
-# Mohit Pammu
+# Mohit Pammu, MBA
 
 ## Data Scientist | Business Analytics Expert | MIT Professional Education Graduate
 
