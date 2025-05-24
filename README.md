@@ -54,12 +54,12 @@ Data scientist with business consulting background and entrepreneurial experienc
 ### Featured Projects
 
 **SVHN Digit Recognition**  
-CNN Optimization for Edge Computing Applications | 90% Accuracy  
+CNN Optimization for Edge Computing Applications | ~90% Accuracy  
 Achieved ~90% accuracy with 38.6% parameter reduction through systematic experimental analysis - essential for deploying ML models in resource-constrained environments. Conducted comprehensive studies on model complexity, learning rate optimization, batch size impact, and AutoML hyperparameter tuning to maximize performance while minimizing computational costs.
 
 **Facial Emotion Detection**  
 Customer Experience & Security Analytics | TensorFlow  
-Developed grayscale-optimized CNN achieving 82% accuracy for real-time emotion recognition applications in retail analytics, customer service optimization, and security monitoring. Built lightweight, edge-compatible solution enabling cost-effective deployment across multiple business use cases.
+Developed grayscale-optimized CNN achieving ~82% accuracy for real-time emotion recognition applications in retail analytics, customer service optimization, and security monitoring. Built lightweight, edge-compatible solution enabling cost-effective deployment across multiple business use cases.
 
 **Bikeshare User Analytics**  
 Marketing Strategy & Customer Segmentation | R Programming  
