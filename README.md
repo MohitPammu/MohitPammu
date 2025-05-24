@@ -11,7 +11,7 @@ Data scientist with business consulting background and entrepreneurial experienc
 **Background:** Business analyst → Operations management → Data science, bringing real-world context to technical problem-solving.
 
 **Recent Achievements:**
-- 90% accuracy on SVHN digit recognition with 39% parameter reduction  
+- ~90% accuracy on SVHN digit recognition with 38.6% parameter reduction  
 - Built facial emotion detection CNN achieving 82% test accuracy
 - Delivered targeted marketing strategies through 5M+ ride-sharing data analysis
 - MIT Professional Education Applied Data Science certification (May 2025)
@@ -55,7 +55,7 @@ Data scientist with business consulting background and entrepreneurial experienc
 
 **SVHN Digit Recognition**  
 CNN Optimization for Edge Computing Applications | 90% Accuracy  
-Achieved 90% accuracy with 39% parameter reduction through systematic experimental analysis - essential for deploying ML models in resource-constrained environments. Conducted comprehensive studies on model complexity, learning rate optimization, batch size impact, and AutoML hyperparameter tuning to maximize performance while minimizing computational costs.
+Achieved ~90% accuracy with 38.6% parameter reduction through systematic experimental analysis - essential for deploying ML models in resource-constrained environments. Conducted comprehensive studies on model complexity, learning rate optimization, batch size impact, and AutoML hyperparameter tuning to maximize performance while minimizing computational costs.
 
 **Facial Emotion Detection**  
 Customer Experience & Security Analytics | TensorFlow  
