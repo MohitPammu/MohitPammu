@@ -12,7 +12,7 @@ Data scientist with business consulting background and entrepreneurial experienc
 
 **Recent Achievements:**
 - ~90% accuracy on SVHN digit recognition with 38.6% parameter reduction  
-- Built facial emotion detection CNN achieving 82% test accuracy
+- Built facial emotion detection CNN achieving ~82% test accuracy
 - Delivered targeted marketing strategies through 5M+ ride-sharing data analysis
 - MIT Professional Education Applied Data Science certification (May 2025)
 
