@@ -2,7 +2,7 @@
 
 ## Data Scientist | Business Analytics Expert | MIT Professional Education Graduate
 
-*Transforming business challenges into data-driven solutions with 3+ years of cross-functional analytical experience*
+*Transforming business challenges into data-driven solutions with 5+ years of cross-functional analytical experience*
 
 ### What I Do
 
