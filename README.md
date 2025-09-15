@@ -8,17 +8,6 @@
 
 Data scientist combining analytical expertise with business operations experience. Skilled in Python, SQL, Power BI, and machine learning to deliver data-driven solutions with measurable impact.
 
-**Background:** Business analyst → Operations management → Data science
-
-**Recent Projects:** 
- * SVHN digit recognition (CNN, 88.94% accuracy)
- * Fraud detection platform (Medicare claims, unsupervised ML, Docker/Streamlit/MLflow)
- * Power BI HR dashboards (6M+ records, DAX KPIs, row-level security)
-
-**Education:** MIT Professional Education – Applied Data Science (completed 2025)
-
-**Certifications:** Google Data Analytics, Microsoft Power BI | Pursuing: Azure Data Scientist, IBM Data Science
-
 ---
 
 ### Technical Expertise
@@ -40,47 +29,46 @@ Data scientist combining analytical expertise with business operations experienc
 **Development & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohitPammu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPammu&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ---
 
 ### Featured Projects
 
 **SVHN Digit Recognition**  
-CNN Optimization for Edge Computing Applications | ~90% Accuracy  
-Achieved ~90% accuracy with 38.6% parameter reduction through systematic experimental analysis - essential for deploying ML models in resource-constrained environments. Conducted comprehensive studies on model complexity, learning rate optimization, batch size impact, and AutoML hyperparameter tuning to maximize performance while minimizing computational costs.
+CNN Architecture Optimization | 88.94% Accuracy  
+Achieved 88.94% accuracy with 38.6% parameter reduction through systematic hyperparameter optimization. Conducted comprehensive analysis of model complexity, learning rates, and batch size impacts for edge deployment scenarios.
 
-**Facial Emotion Detection**  
-Customer Experience & Security Analytics | TensorFlow  
-Developed grayscale-optimized CNN achieving ~82% accuracy for real-time emotion recognition applications in retail analytics, customer service optimization, and security monitoring. Built lightweight, edge-compatible solution enabling cost-effective deployment across multiple business use cases.
+**Healthcare Fraud Detection Platform**  
+Medicare Claims Analysis | Unsupervised ML  
+Built end-to-end fraud detection system analyzing 3+ years of Medicare claims using unsupervised ML. Deployed MLOps infrastructure with Docker, Streamlit dashboards, and FastAPI real-time scoring.
 
 **Bikeshare User Analytics**  
 Marketing Strategy & Customer Segmentation | R Programming  
-Analyzed 5M+ ride-sharing records to identify usage patterns between member and casual rider segments. Delivered targeted marketing strategy including user-specific promotions, enhanced member benefits, and membership ranking system to drive customer acquisition and retention.
+Analyzed 5M+ ride-sharing records to identify usage patterns between member segments. Delivered targeted marketing strategy with 5 actionable recommendations for customer acquisition and retention.
 
 **HR Analytics Dashboard**  
-Workforce Planning & Attrition Prevention | Power BI  
-Built comprehensive dashboard analyzing 6M+ HR data points to predict employee attrition and optimize workforce planning. Implemented advanced DAX calculations and row-level security, enabling data-driven decisions for talent retention and organizational restructuring.
+Workforce Planning & Attrition Analysis | Power BI  
+Built interactive dashboard analyzing 6M+ HR data points with advanced DAX calculations and row-level security. Enabled data-driven decisions for talent retention and organizational restructuring.
 
 ---
 
 ### Education & Certifications
 
-- Applied Data Science - MIT Professional Education (2025)
-- Data Analytics Professional - Google (2024)
-- Power BI Data Analyst Associate - Microsoft (2024)
-- MBA, Finance Concentration - La Sierra University
-- BA Business Management, Minor: Accounting - La Sierra University
+- **MIT Professional Education** - Applied Data Science (2025)
+- **Google** - Data Analytics Professional (2024)
+- **Microsoft** - Power BI Data Analyst Associate (2024)
+- **MBA** - Finance Concentration, La Sierra University
+- **Currently Pursuing** - Azure Data Scientist, IBM Data Science
+
+---
+
+### About
+
+**Background:** Business Analyst (DC consulting, $50M+ healthcare projects) → Operations Manager (restaurant industry) → Data Scientist. I leverage cross-functional experience and stakeholder management skills to deliver technical solutions with clear business impact.
+
+**Currently building:** End-to-end production ML systems demonstrating enterprise-scale capabilities for healthcare analytics.
 
 ---
 
@@ -92,13 +80,10 @@ Built comprehensive dashboard analyzing 6M+ HR data points to predict employee a
 
 ---
 
-### About
-
-**Background:** Business Analyst (DC consulting, $50M+ healthcare projects) → Operations Manager (restaurant industry) → Data Scientist. I leverage cross-functional experience and stakeholder management skills to deliver technical solutions with clear business impact.
-
-**Currently building:** End-to-end production ML system demonstrating enterprise-scale capabilities.
-
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohitPammu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPammu&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MohitPammu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
