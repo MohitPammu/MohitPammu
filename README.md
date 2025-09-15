@@ -10,11 +10,14 @@ Data scientist combining analytical expertise with business operations experienc
 
 **Background:** Business analyst → Operations management → Data science
 
-**Recent Projects:** SVHN digit recognition (88.94% accuracy), fraud detection platform analyzing 3+ years of Medicare claims (unsupervised ML), Power BI HR dashboards (6M+ records)
+**Recent Projects:** 
+ * SVHN digit recognition (CNN, 88.94% accuracy)
+ * Fraud detection platform (Medicare claims, unsupervised ML, Docker/Streamlit/MLflow)
+ * Power BI HR dashboards (6M+ records, DAX KPIs, row-level security)
 
 **Education:** MIT Professional Education – Applied Data Science (completed 2025)
 
-**Certifications:** Google Data Analytics, Microsoft Power BI | In progress: Azure Data Scientist, IBM Data Science
+**Certifications:** Google Data Analytics, Microsoft Power BI | Pursuing: Azure Data Scientist, IBM Data Science
 
 ---
 
