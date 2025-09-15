@@ -42,7 +42,7 @@ Achieved 88.94% accuracy with 38.6% parameter reduction through systematic hyper
 
 **Healthcare Fraud Detection Platform**  
 Medicare Claims Analysis | Unsupervised ML  
-Built end-to-end fraud detection system analyzing 3+ years of Medicare claims using unsupervised ML. Deployed MLOps infrastructure with Docker, Streamlit dashboards, and FastAPI real-time scoring.
+Engineering end-to-end fraud detection system analyzing 3+ years of Medicare claims using unsupervised ML. Deployed MLOps infrastructure with Docker, Streamlit dashboards, and FastAPI real-time scoring.
 
 **Bikeshare User Analytics**  
 Marketing Strategy & Customer Segmentation | R Programming  
