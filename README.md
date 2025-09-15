@@ -1,20 +1,20 @@
 # Mohit Pammu, MBA
 
-## Data Scientist | Business Analytics Expert | MIT Professional Education Graduate
+## Data Scientist | Business Analytics | Strategic Implementation
 
-*Transforming business challenges into data-driven solutions with 5+ years of cross-functional analytical experience*
+*Cross-functional professional with 5+ years bridging finance, healthcare, and technology*
 
 ### What I Do
 
-Data scientist with business consulting background and entrepreneurial experience. I combine analytical expertise, operational leadership, and technical skills to build machine learning solutions that drive measurable business impact.
+Data scientist combining analytical expertise with business operations experience. Skilled in Python, SQL, Power BI, and machine learning to deliver data-driven solutions with measurable impact.
 
-**Background:** Business analyst → Operations management → Data science, bringing real-world context to technical problem-solving.
+**Background:** Business analyst → Operations management → Data science
 
-**Recent Achievements:**
-- ~90% accuracy on SVHN digit recognition with 38.6% parameter reduction  
-- Built facial emotion detection CNN achieving ~82% test accuracy
-- Delivered targeted marketing strategies through 5M+ ride-sharing data analysis
-- MIT Professional Education Applied Data Science certification (May 2025)
+**Recent Projects:** SVHN digit recognition (88.94% accuracy), fraud detection platform analyzing 3+ years of Medicare claims (unsupervised ML), Power BI HR dashboards (6M+ records)
+
+**Education:** MIT Professional Education – Applied Data Science (completed 2025)
+
+**Certifications:** Google Data Analytics, Microsoft Power BI | In progress: Azure Data Scientist, IBM Data Science
 
 ---
 
