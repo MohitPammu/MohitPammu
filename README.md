@@ -1,74 +1,89 @@
 # Mohit Pammu, MBA
 
-## Data Scientist | Business Analytics | Strategic Implementation
+## Data Analyst | SQL, Python, Power BI
 
-*Cross-functional professional with 5+ years bridging finance, healthcare, and technology*
+*Turning complex data into clear business insights across healthcare, finance, and operations*
 
 ### What I Do
 
-Data scientist combining analytical expertise with business operations experience. Skilled in Python, SQL, Power BI, and machine learning to deliver data-driven solutions with measurable impact.
+Data analyst with 5+ years of experience transforming messy data into actionable business intelligence. I work end-to-end across the analytics workflow: SQL for data extraction and transformation, Python for statistical analysis and automation, and Power BI for interactive dashboards that help stakeholders make informed decisions.
 
 ---
 
-### Technical Expertise
+### Technical Stack
 
-**Machine Learning & AI**  
+**Data Analysis & BI**  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**Python Libraries**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Data Analysis & Visualization**  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776ab?style=flat-square&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776ab?style=flat-square&logo=python&logoColor=white)
 
 **Development & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+**Expanding Into**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-**SVHN Digit Recognition**  
-CNN Architecture Optimization | 88.94% Accuracy  
-Achieved 88.94% accuracy with 38.6% parameter reduction through systematic hyperparameter optimization. Conducted comprehensive analysis of model complexity, learning rates, and batch size impacts for edge deployment scenarios.
+**HR Workforce Analytics Dashboard**  
+Power BI | DAX | Row-Level Security  
+Analyzed 546K+ employee records with advanced DAX measures and row-level security for 6 regional roles. Revealed that 73% of new hires are under 30 yet this age group drives highest separations—identifying critical retention gaps requiring targeted interventions across regions.
 
-**Healthcare Fraud Detection Platform**  
-Medicare Claims Analysis | Unsupervised ML  
-Engineering end-to-end fraud detection system analyzing 3+ years of Medicare claims using unsupervised ML. Deployed MLOps infrastructure with Docker, Streamlit dashboards, and FastAPI real-time scoring.
+**Global Sales Performance Dashboard**  
+Power BI | Multi-Market Analysis | Profit Optimization  
+Built sales analytics dashboard analyzing $62.3M across global markets with row-level security implementation. Uncovered 23.8% average annual growth alongside critical profitability challenge: 2.4% profit ratio with Central Asia operating at -9.4% loss.
 
-**Bikeshare User Analytics**  
-Marketing Strategy & Customer Segmentation | R Programming  
-Analyzed 5M+ ride-sharing records to identify usage patterns between member segments. Delivered targeted marketing strategy with 5 actionable recommendations for customer acquisition and retention.
+**Cyclistic Bikeshare Analysis**  
+R | tidyverse | Statistical Analysis  
+Analyzed 4.3M+ ride-sharing records using R to identify usage patterns between casual riders and annual members. Delivered marketing strategy with 5 actionable recommendations for membership conversion and customer retention.
 
-**HR Analytics Dashboard**  
-Workforce Planning & Attrition Analysis | Power BI  
-Built interactive dashboard analyzing 6M+ HR data points with advanced DAX calculations and row-level security. Enabled data-driven decisions for talent retention and organizational restructuring.
+**FoodHub Order Analytics**  
+Python | Pandas | Data Visualization  
+Conducted comprehensive analysis of 1,898 orders using Python (pandas, matplotlib, seaborn) to identify trends in restaurant popularity, cuisine preferences, delivery times, and customer ratings—providing strategic recommendations to improve revenue and customer experience.
 
 ---
 
 ### Education & Certifications
 
-- **MIT Professional Education** - Applied Data Science (2025)
-- **Google** - Data Analytics Professional (2024)
-- **Microsoft** - Power BI Data Analyst Associate (2024)
-- **MBA** - Finance Concentration, La Sierra University
-- **Currently Pursuing** - Azure Data Scientist, IBM Data Science
+- **Google Data Analytics Professional Certificate** (2024)
+- **Edureka Business Analyst using Power BI** (2024)
+- **MIT Professional Education** - Applied Data Science Program (2025)
+- **MBA, Finance Concentration** - La Sierra University
+- **Currently Pursuing:** SQL Fundamentals, Advanced Python for Data Analysis
 
 ---
 
-### About
+### Professional Background
 
-**Background:** Business Analyst (DC consulting, $50M+ healthcare projects) → Operations Manager (restaurant industry) → Data Scientist. I leverage cross-functional experience and stakeholder management skills to deliver technical solutions with clear business impact.
+**Business Analyst** → DC consulting, supporting $50M+ healthcare projects  
+**Operations Manager** → Restaurant industry, process optimization  
+**Data Analyst** → Cross-functional analytics across healthcare, finance, and operations
 
-**Currently building:** End-to-end production ML systems demonstrating enterprise-scale capabilities for healthcare analytics.
+I leverage business operations experience and stakeholder management skills to translate technical analyses into actionable business recommendations. I focus on asking the right questions before writing the first query.
+
+---
+
+### Current Focus
+
+📚 **Learning:** Advanced SQL (window functions, CTEs, query optimization)  
+🔨 **Building:** End-to-end analytics projects demonstrating ETL → analysis → visualization workflow  
+🎯 **Goal:** Transition into predictive analytics and machine learning applications  
+💼 **Open to:** Data Analyst, BI Analyst, and Analytics Engineer roles
 
 ---
 
