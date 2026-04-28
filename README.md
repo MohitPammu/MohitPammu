@@ -73,7 +73,7 @@ Conducted comprehensive analysis of 1,898 orders using Python (pandas, matplotli
 
 **Business Analyst** → DC consulting, supporting $50M+ healthcare projects  
 **Operations Manager** → Restaurant industry, process optimization  
-**Data Analyst** → Cross-functional analytics across healthcare, finance, and operations
+**Targeting: Data Analyst** → Cross-functional analytics across healthcare, finance, and operations
 
 I leverage business operations experience and stakeholder management skills to translate technical analyses into actionable business recommendations. I focus on asking the right questions before writing the first query.
 
