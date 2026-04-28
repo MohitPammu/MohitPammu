@@ -50,7 +50,7 @@ Built sales analytics dashboard analyzing $62.3M across global markets with row-
 
 **Cyclistic Bikeshare Analysis**  
 R | tidyverse | Statistical Analysis  
-Analyzed 4.3M+ ride-sharing records using R to identify usage patterns between casual riders and annual members. Delivered marketing strategy with 5 actionable recommendations for membership conversion and customer retention.
+Analyzed 5.7M+ ride-sharing records using R to identify usage patterns between casual riders and annual members. Delivered marketing strategy with 5 actionable recommendations for membership conversion and customer retention.
 
 **FoodHub Order Analytics**  
 Python | Pandas | Data Visualization  
