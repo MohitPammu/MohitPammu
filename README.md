@@ -60,6 +60,7 @@ Conducted comprehensive analysis of 1,898 orders using Python (pandas, matplotli
 
 ### Education & Certifications
 
+- **Microsoft Certified: Power BI Data Analyst Associate Certificate** (2024)
 - **Google Data Analytics Professional Certificate** (2024)
 - **Edureka Business Analyst using Power BI** (2024)
 - **MIT Professional Education** - Applied Data Science Program (2025)
