@@ -1,12 +1,12 @@
 # Mohit Pammu, MBA
 
-## Data Analyst | SQL, Python, Power BI
+## Analyst | SQL, Python, Power BI
 
 *Turning complex data into clear business insights across healthcare, finance, and operations*
 
 ### What I Do
 
-Data analyst with 5+ years of experience transforming messy data into actionable business intelligence. I work end-to-end across the analytics workflow: SQL for data extraction and transformation, Python for statistical analysis and automation, and Power BI for interactive dashboards that help stakeholders make informed decisions.
+Analyst with 5+ years of experience transforming messy data into actionable business intelligence. I work end-to-end across the analytics workflow: SQL for data extraction and transformation, Python for exploratory analysis and automation, and Power BI for interactive dashboards that help stakeholders make informed decisions.
 
 ---
 
@@ -49,7 +49,7 @@ Power BI | Multi-Market Analysis | Profit Optimization
 Built sales analytics dashboard analyzing $62.3M across global markets with row-level security implementation. Uncovered 23.8% average annual growth alongside critical profitability challenge: 2.4% profit ratio with Central Asia operating at -9.4% loss.
 
 **Cyclistic Bikeshare Analysis**  
-R | tidyverse | Statistical Analysis  
+R | tidyverse | Trend Analysis  
 Analyzed 5.7M+ ride-sharing records using R to identify usage patterns between casual riders and annual members. Delivered marketing strategy with 5 actionable recommendations for membership conversion and customer retention.
 
 **FoodHub Order Analytics**  
@@ -65,7 +65,7 @@ Conducted comprehensive analysis of 1,898 orders using Python (pandas, matplotli
 - **Edureka Business Analyst using Power BI** (2024)
 - **MIT Professional Education** - Applied Data Science Program (2025)
 - **MBA, Finance Concentration** - La Sierra University
-- **Currently Pursuing:** SQL Fundamentals, Advanced Python for Data Analysis
+- **Currently Pursuing:** UC Davis SQL for Data Science (Coursera), Microsoft Azure Data Scientist Associate, IBM Data Science Professional Certificate (all expected 2026)
 
 ---
 
@@ -84,7 +84,7 @@ I leverage business operations experience and stakeholder management skills to t
 📚 **Learning:** Advanced SQL (window functions, CTEs, query optimization)  
 🔨 **Building:** End-to-end analytics projects demonstrating ETL → analysis → visualization workflow  
 🎯 **Goal:** Transition into predictive analytics and machine learning applications  
-💼 **Open to:** Data Analyst, BI Analyst, and Analytics Engineer roles
+💼 **Open to:** Analyst, BI Analyst, Operations Analyst, and Healthcare Analytics roles — especially in the DC/Maryland area
 
 ---
 
